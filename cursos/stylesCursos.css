@@ -4,6 +4,7 @@
 
 .marginConteiner{
     margin-top: 20px;
+    margin-bottom: 50px;
 }
 
 .imagenesTam{
@@ -13,8 +14,8 @@
 
 .cartTm{
     min-height: 500px;
-    max-width: 600px;
 }
-body{
+
+#colorBtn{
     background-color: gray;
 }
