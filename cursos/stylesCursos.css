@@ -1,0 +1,15 @@
+.borderCard{
+    border: 0px;
+}
+
+.marginConteiner{
+    margin-top: 20px;
+}
+
+.imagenesTam{
+    max-height: 150px;
+}
+
+.cartTm{
+    min-height: 400px;
+}
