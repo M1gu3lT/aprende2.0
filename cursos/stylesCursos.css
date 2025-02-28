@@ -8,8 +8,13 @@
 
 .imagenesTam{
     max-height: 150px;
+    padding: 5px;
 }
 
 .cartTm{
-    min-height: 400px;
+    min-height: 500px;
+    max-width: 600px;
+}
+body{
+    background-color: gray;
 }
